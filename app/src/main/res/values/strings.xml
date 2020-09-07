@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photo gallery</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="update">Update gallery</string>
+    <string name="type_photo">Photo gallery</string>
+    <string name="type_video">Video gallery</string>
+    <string name="load_pict">Please, wait...</string>
+    <string name="error_title">Important message</string>
+    <string name="load_error">Cannot download photo,
+                              check your internet connection</string>
+</resources>

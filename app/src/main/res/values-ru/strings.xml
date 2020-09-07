@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Фото галерея</string>
+    <string name="search">Поиск</string>
+    <string name="clear_search">Очистить</string>
+    <string name="update">Обновить галерею</string>
+    <string name="type_photo">Фото галлерея</string>
+    <string name="type_video">Видео галлерея</string>
+    <string name="load_pict">Идет загрузка...</string>
+    <string name="error_title">Важное сообщение</string>
+    <string name="load_error">Не удалось загрузить рисунок,
+                              проверьте подключение к интернету</string>
+</resources>
